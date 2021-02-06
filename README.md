@@ -16,6 +16,7 @@ select | Returns a array contains rows which follow Conditions (a sequential or 
  ## How to use ?
  include msqlhelper.php in your project, connect database and boom :)
  for more detail, check example.php file 
+ if its your first time, turn debugmod on, to see what executes
  
  
 ### Donation : 18eHqWzdCFMs8pNXiHAwvpDMHmToxFLhMP (BTC)
